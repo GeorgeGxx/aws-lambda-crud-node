@@ -1,5 +1,11 @@
 {
   "devDependencies": {
     "serverless-offline": "^9.2.6"
+  },
+  "dependencies": {
+    "@middy/core": "3.4.0",
+    "@middy/http-json-body-parser": "3.4.0",
+    "aws-sdk": "^2.1226.0",
+    "uuid": "^9.0.0"
   }
 }
