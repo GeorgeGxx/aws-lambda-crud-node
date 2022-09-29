@@ -2,7 +2,7 @@
 
 This is a simple CRUD application using AWS API Gateway, Lambda, DynamoDB, CloudFormation and CloudWatch. It is a Node.js application that uses the Serverless Framework to deploy to AWS.
 
-First, checkout your AWS Credentials
+`First, checkout your AWS Credentials`
 
 npm i
 
